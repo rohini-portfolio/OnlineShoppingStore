@@ -1,14 +1,34 @@
 # 🛍️ Online Shopping Store API
 
-A production-ready e-commerce REST API built with ASP.NET Core 10.
+A backend RESTful API for an e-commerce platform built using ASP.NET Core, C#, Entity Framework Core, and SQL Server. The application provides secure user authentication, product management, shopping cart functionality, order processing, and payment management using modern .NET development practices.
+This project was developed to strengthen my backend development skills in ASP.NET Core and demonstrate practical experience in designing scalable REST APIs, implementing authentication and authorization, and working with relational databases.
 
 ## Features
--  JWT Authentication
--  Role-based Access Control
--  Product Management
--  Shopping Cart
--  Order Management
--  Payment Processing
+**User Authentication & Authorization**
+- User Registration
+- User Login
+- JWT Authentication
+- ASP.NET Core Identity
+- Role-Based Authorization (Admin & Customer)
+
+**Product Management**
+- Add Products
+- Update Products
+- Delete Products
+- View Product Catalogue
+
+  **Shopping Cart**
+- Add Items to Cart
+- Update Cart Items
+- Remove Items from Cart
+- View Shopping Cart
+
+**Order Management**
+- Place Orders
+- View Customer Orders
+- Order History
+
+**Payment Module**
 
 ## Tech Stack
 - **Framework**: ASP.NET Core 10
