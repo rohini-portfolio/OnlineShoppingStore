@@ -76,17 +76,8 @@ This project was developed to strengthen backend development skills using Micros
 #  Project Structure
 
 OnlineShoppingStore
-│
-├── Controllers
-├── Services
-├── Repository
-├── Models
-├── Dtos
-├── Data
-├── Common
-├── Program.cs
-└── appsettings.json
 
+Controllers ---> Services ---> Repository ---> Models ---> Dtos ---> Data ---> Common ---> Program.cs --->  appsettings.json
 
 # User Roles
 
